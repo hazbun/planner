@@ -67,8 +67,8 @@ assignments = {
       "title": "Lab 1",
       "course": "wl.202430.ME.37500.005",
       "dueDate": "2024-06-19T17:00:00",
-      "link": "https://www.gradescope.com/courses/793936",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/793936/assignments/4566220/submissions/257270618",
+      "submitted": true
     }
   ]
 };
