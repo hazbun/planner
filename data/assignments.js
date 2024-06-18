@@ -69,6 +69,34 @@ assignments = {
       "dueDate": "2024-06-19T17:00:00",
       "link": "https://www.gradescope.com/courses/793936/assignments/4566220/submissions/257270618",
       "submitted": true
+    },
+    {
+      "title": "Prelab 2",
+      "course": "wl.202430.ME.37500.005",
+      "dueDate": "2024-06-19T12:30:00",
+      "link": "https://www.gradescope.com/courses/793936",
+      "submitted": false
+    },
+    {
+      "title": "Lab 2",
+      "course": "wl.202430.ME.37500.005",
+      "dueDate": "2024-02-21T17:00:00",
+      "link": "https://www.gradescope.com/courses/793936",
+      "submitted": false
+    },
+    {
+      "title": "Prelab 3",
+      "course": "wl.202430.ME.37500.005",
+      "dueDate": "2024-02-19T08:00:00",
+      "link": "https://www.gradescope.com/courses/793936",
+      "submitted": false
+    },
+    {
+      "title": "Lab 3",
+      "course": "wl.202430.ME.37500.005",
+      "dueDate": "2024-03-06T17:00:00",
+      "link": "https://www.gradescope.com/courses/793936",
+      "submitted": false
     }
   ]
 };
