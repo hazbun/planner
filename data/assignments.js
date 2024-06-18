@@ -80,21 +80,21 @@ assignments = {
     {
       "title": "Lab 2",
       "course": "wl.202430.ME.37500.005",
-      "dueDate": "2024-02-21T17:00:00",
+      "dueDate": "2024-06-26T17:00:00",
       "link": "https://www.gradescope.com/courses/793936",
       "submitted": false
     },
     {
       "title": "Prelab 3",
       "course": "wl.202430.ME.37500.005",
-      "dueDate": "2024-02-19T08:00:00",
+      "dueDate": "2024-06-26T12:30:00",
       "link": "https://www.gradescope.com/courses/793936",
       "submitted": false
     },
     {
       "title": "Lab 3",
       "course": "wl.202430.ME.37500.005",
-      "dueDate": "2024-03-06T17:00:00",
+      "dueDate": "2024-07-03T17:00:00",
       "link": "https://www.gradescope.com/courses/793936",
       "submitted": false
     }
