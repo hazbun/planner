@@ -11,8 +11,8 @@ assignments = {
       "title": "HW2",
       "course": "wl.202430.ME.37500.005",
       "dueDate": "2024-06-24T17:00:00",
-      "link": "https://www.gradescope.com/courses/793936",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/793936/assignments/4565670/submissions/258073614",
+      "submitted": true
     },
     {
       "title": "HW3",
