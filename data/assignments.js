@@ -97,6 +97,13 @@ assignments = {
       "dueDate": "2024-07-03T17:00:00",
       "link": "https://www.gradescope.com/courses/793936",
       "submitted": false
+    },
+    {
+      "title": "Exam 1 rework",
+      "course": "wl.202430.ME.37500.005",
+      "dueDate": "2024-07-02T17:00:00",
+      "link": "https://www.gradescope.com/courses/793936/assignments/4606081/submissions/new",
+      "submitted": false
     }
   ]
 };
