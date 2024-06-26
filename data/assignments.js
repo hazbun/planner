@@ -81,8 +81,8 @@ assignments = {
       "title": "Lab 2",
       "course": "wl.202430.ME.37500.005",
       "dueDate": "2024-06-26T17:00:00",
-      "link": "https://www.gradescope.com/courses/793936",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/793936/assignments/4590669/submissions/258267561",
+      "submitted": true
     },
     {
       "title": "Prelab 3",
@@ -95,8 +95,8 @@ assignments = {
       "title": "Lab 3",
       "course": "wl.202430.ME.37500.005",
       "dueDate": "2024-07-03T17:00:00",
-      "link": "https://www.gradescope.com/courses/793936",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/793936/assignments/4590671/submissions/258267045",
+      "submitted": true
     },
     {
       "title": "Exam 1 rework",
