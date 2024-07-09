@@ -123,8 +123,8 @@ assignments = {
       "title": "Lab 4",
       "course": "wl.202430.ME.37500.005",
       "dueDate": "2024-07-10T17:00:00",
-      "link": "https://www.gradescope.com/courses/793936",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/793936/assignments/4615971/submissions/259001194",
+      "submitted": true
     },
     {
       "title": "Lab 5",
