@@ -132,6 +132,13 @@ assignments = {
       "dueDate": "2024-07-17T17:00:00",
       "link": "https://www.gradescope.com/courses/793936/assignments/4615972/submissions/259197858",
       "submitted": true
+    },
+    {
+      "title": "Exam 2 rework",
+      "course": "wl.202430.ME.37500.005",
+      "dueDate": "2024-07-19T17:00:00",
+      "link": "https://www.gradescope.com/courses/793936/assignments/4643720/submissions/new",
+      "submitted": false
     }
   ]
 };
