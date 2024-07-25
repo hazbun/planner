@@ -139,6 +139,13 @@ assignments = {
       "dueDate": "2024-07-19T17:00:00",
       "link": "https://www.gradescope.com/courses/793936/assignments/4643720/submissions/259492096",
       "submitted": true
+    },
+    {
+      "title": "Quiz",
+      "course": "wl.202430.ME.37500.005",
+      "dueDate": "2024-07-25T09:45:00",
+      "link": "https://www.gradescope.com/courses/793936/assignments/4668393/submissions/260106658",
+      "submitted": true
     }
   ]
 };
