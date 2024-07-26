@@ -146,6 +146,13 @@ assignments = {
       "dueDate": "2024-07-25T09:45:00",
       "link": "https://www.gradescope.com/courses/793936/assignments/4668393/submissions/260106658",
       "submitted": true
+    },
+    {
+      "title": "Course Evaluation",
+      "course": "wl.202430.ME.37500.005",
+      "dueDate": "2024-04-28T23:59:00",
+      "link": "https://www.gradescope.com/courses/793936",
+      "submitted": false
     }
   ]
 };
