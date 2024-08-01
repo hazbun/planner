@@ -160,6 +160,13 @@ assignments = {
       "dueDate": "2024-07-30T23:59:00",
       "link": "https://www.gradescope.com/courses/793936/assignments/4671058/submissions/260371389",
       "submitted": true
+    },
+    {
+      "title": "Final Report",
+      "course": "wl.202430.ME.37500.005",
+      "dueDate": "2024-08-01T23:59:00",
+      "link": "https://www.gradescope.com/courses/793936",
+      "submitted": false
     }
   ]
 };
