@@ -16,7 +16,15 @@ assignments = {
       "submitted": false
     }
   ],
-  "wl.202510.ME.50900.001": [],
+  "wl.202510.ME.50900.001": [
+    {
+      "title": "Homework 01",
+      "course": "wl.202510.ME.50900.001",
+      "dueDate": "2024-09-03T23:59:00",
+      "link": "https://www.gradescope.com/courses/823847",
+      "submitted": false
+    }
+  ],
   "wl.202510.ME.58100.WNG": [
     {
       "title": "Homework-1, due 9/5",
