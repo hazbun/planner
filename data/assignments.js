@@ -1,5 +1,13 @@
 assignments = {
-  "ME30801": [],
+  "ME30801": [
+    {
+      "title": "Lab 1 Report",
+      "course": "ME30801",
+      "dueDate": "2024-09-06T23:59:00",
+      "link": "https://www.gradescope.com/courses/827568",
+      "submitted": false
+    }
+  ],
   "ME315 (Lecture)": [
     {
       "title": "Homework 1",
