@@ -56,11 +56,18 @@ assignments = {
   ],
   "wl.202510.ME.50900.001": [
     {
-      "title": "Homework 01",
+      "title": "Gradescope LTI 1.3",
       "course": "wl.202510.ME.50900.001",
       "dueDate": "2024-09-03T23:59:00",
       "link": "https://www.gradescope.com/courses/823847/assignments/4833423/submissions/263974196",
       "submitted": true
+    },
+    {
+      "title": "Homework 02",
+      "course": "wl.202510.ME.50900.001",
+      "dueDate": "2024-09-10T23:59:00",
+      "link": "https://www.gradescope.com/courses/823847",
+      "submitted": false
     }
   ],
   "wl.202510.ME.58100.WNG": [
