@@ -75,8 +75,8 @@ assignments = {
       "title": "Homework-1, due 9/5",
       "course": "wl.202510.ME.58100.WNG",
       "dueDate": "2024-09-05T23:59:00",
-      "link": "https://www.gradescope.com/courses/821837",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/821837/assignments/4730943/submissions/264835433",
+      "submitted": true
     },
     {
       "title": "Homework-2, due 9/19",
