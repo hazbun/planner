@@ -59,6 +59,13 @@ assignments = {
       "dueDate": "2024-09-05T23:59:00",
       "link": "https://www.gradescope.com/courses/849003/assignments/4853716/submissions/263870421",
       "submitted": true
+    },
+    {
+      "title": "Prelab-2",
+      "course": "ME315Lab - Div 051 (Fri 09:30)",
+      "dueDate": "2024-09-11T23:59:00",
+      "link": "https://www.gradescope.com/courses/849003",
+      "submitted": false
     }
   ],
   "wl.202510.ME.50900.001": [
