@@ -6,6 +6,13 @@ assignments = {
       "dueDate": "2024-09-06T23:59:00",
       "link": "https://www.gradescope.com/courses/827568/assignments/4819777/submissions/265089664",
       "submitted": true
+    },
+    {
+      "title": "Lab 2 Report",
+      "course": "ME30801",
+      "dueDate": "2024-09-13T23:59:00",
+      "link": "https://www.gradescope.com/courses/827568",
+      "submitted": false
     }
   ],
   "ME315 (Lecture)": [
