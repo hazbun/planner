@@ -1,4 +1,20 @@
 assignments = {
+  "ME 50900": [
+    {
+      "title": "Gradescope LTI 1.3",
+      "course": "ME 50900",
+      "dueDate": "2024-09-03T23:59:00",
+      "link": "https://www.gradescope.com/courses/823847/assignments/4833423/submissions/263974196",
+      "submitted": true
+    },
+    {
+      "title": "Homework 02",
+      "course": "ME 50900",
+      "dueDate": "2024-09-10T23:59:00",
+      "link": "https://www.gradescope.com/courses/823847",
+      "submitted": false
+    }
+  ],
   "ME30801": [
     {
       "title": "Lab 1 Report",
@@ -73,22 +89,6 @@ assignments = {
       "dueDate": "2024-09-11T23:59:00",
       "link": "https://www.gradescope.com/courses/849003/assignments/4890903/submissions/265223466",
       "submitted": true
-    }
-  ],
-  "wl.202510.ME.50900.001": [
-    {
-      "title": "Gradescope LTI 1.3",
-      "course": "wl.202510.ME.50900.001",
-      "dueDate": "2024-09-03T23:59:00",
-      "link": "https://www.gradescope.com/courses/823847/assignments/4833423/submissions/263974196",
-      "submitted": true
-    },
-    {
-      "title": "Homework 02",
-      "course": "wl.202510.ME.50900.001",
-      "dueDate": "2024-09-10T23:59:00",
-      "link": "https://www.gradescope.com/courses/823847",
-      "submitted": false
     }
   ],
   "wl.202510.ME.58100.WNG": [
