@@ -71,8 +71,8 @@ assignments = {
       "title": "Homework 4",
       "course": "ME315 (Lecture)",
       "dueDate": "2024-09-18T23:59:00",
-      "link": "https://www.gradescope.com/courses/814076",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/814076/assignments/4918210/submissions/268928817",
+      "submitted": true
     },
     {
       "title": "Homework 5 (Not Graded)",
@@ -122,8 +122,8 @@ assignments = {
       "title": "Prelab-3",
       "course": "ME315Lab - Div 051 (Fri 09:30)",
       "dueDate": "2024-09-18T23:59:00",
-      "link": "https://www.gradescope.com/courses/849003",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/849003/assignments/4956510/submissions/268932942",
+      "submitted": true
     }
   ],
   "wl.202510.ME.58100.WNG": [
