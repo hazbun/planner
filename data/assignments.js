@@ -124,6 +124,13 @@ assignments = {
       "dueDate": "2024-09-18T23:59:00",
       "link": "https://www.gradescope.com/courses/849003/assignments/4956510/submissions/268932942",
       "submitted": true
+    },
+    {
+      "title": "Lab-3 report",
+      "course": "ME315Lab - Div 051 (Fri 09:30)",
+      "dueDate": "2024-09-27T23:59:00",
+      "link": "https://www.gradescope.com/courses/849003",
+      "submitted": false
     }
   ],
   "wl.202510.ME.58100.WNG": [
