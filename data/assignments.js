@@ -115,8 +115,8 @@ assignments = {
       "title": "Lab-2 report",
       "course": "ME315Lab - Div 051 (Fri 09:30)",
       "dueDate": "2024-09-19T23:59:00",
-      "link": "https://www.gradescope.com/courses/849003",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/849003/assignments/4956380/submissions/269437173",
+      "submitted": true
     },
     {
       "title": "Prelab-3",
