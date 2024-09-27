@@ -48,8 +48,8 @@ assignments = {
       "title": "Lab 4",
       "course": "ME30801",
       "dueDate": "2024-09-27T23:59:00",
-      "link": "https://www.gradescope.com/courses/827568",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/827568/assignments/5013097/submissions/272278495",
+      "submitted": true
     }
   ],
   "ME315 (Lecture)": [
