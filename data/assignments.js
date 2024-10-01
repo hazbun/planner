@@ -45,11 +45,25 @@ assignments = {
       "submitted": true
     },
     {
-      "title": "Lab 4",
+      "title": "Lab 4 Report",
       "course": "ME30801",
       "dueDate": "2024-09-27T23:59:00",
       "link": "https://www.gradescope.com/courses/827568/assignments/5013097/submissions/272278495",
       "submitted": true
+    },
+    {
+      "title": "Open Lab Project Draft Proposal",
+      "course": "ME30801",
+      "dueDate": "2024-10-04T23:59:00",
+      "link": "https://www.gradescope.com/courses/827568",
+      "submitted": false
+    },
+    {
+      "title": "Lab 5 Report",
+      "course": "ME30801",
+      "dueDate": "2024-10-18T23:59:00",
+      "link": "https://www.gradescope.com/courses/827568",
+      "submitted": false
     }
   ],
   "ME315 (Lecture)": [
