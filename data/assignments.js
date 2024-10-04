@@ -157,15 +157,15 @@ assignments = {
       "title": "Lab-3 report",
       "course": "ME315Lab - Div 051 (Fri 09:30)",
       "dueDate": "2024-10-03T23:59:00",
-      "link": "https://www.gradescope.com/courses/849003",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/849003/assignments/4956542/submissions/274362138",
+      "submitted": true
     },
     {
       "title": "Project proposal",
       "course": "ME315Lab - Div 051 (Fri 09:30)",
       "dueDate": "2024-10-03T23:59:00",
-      "link": "https://www.gradescope.com/courses/849003",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/849003/assignments/5040545/submissions/274363969",
+      "submitted": true
     }
   ],
   "wl.202510.ME.58100.WNG": [
