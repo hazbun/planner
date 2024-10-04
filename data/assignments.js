@@ -55,8 +55,8 @@ assignments = {
       "title": "Open Lab Project Draft Proposal",
       "course": "ME30801",
       "dueDate": "2024-10-04T23:59:00",
-      "link": "https://www.gradescope.com/courses/827568",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/827568/assignments/5079401/submissions/274603014",
+      "submitted": true
     },
     {
       "title": "Lab 5 Report",
