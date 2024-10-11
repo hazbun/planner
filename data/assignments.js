@@ -173,6 +173,13 @@ assignments = {
       "dueDate": "2024-10-03T23:59:00",
       "link": "https://www.gradescope.com/courses/849003/assignments/5040545/submissions/274363969",
       "submitted": true
+    },
+    {
+      "title": "Midterm peer evaluation",
+      "course": "ME315Lab - Div 051 (Fri 09:30)",
+      "dueDate": "2024-10-25T23:59:00",
+      "link": "https://www.gradescope.com/courses/849003",
+      "submitted": false
     }
   ],
   "wl.202510.ME.58100.WNG": [
