@@ -120,8 +120,8 @@ assignments = {
       "title": "Homework 7",
       "course": "ME315 (Lecture)",
       "dueDate": "2024-10-16T23:59:00",
-      "link": "https://www.gradescope.com/courses/814076",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/814076/assignments/5112226/submissions/278638452",
+      "submitted": true
     },
     {
       "title": "Homework 8",
