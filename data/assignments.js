@@ -20,6 +20,13 @@ assignments = {
       "dueDate": "2024-09-17T23:59:00",
       "link": "https://www.gradescope.com/courses/823847/assignments/4940297/submissions/268554385",
       "submitted": true
+    },
+    {
+      "title": "Project 1",
+      "course": "ME 50900",
+      "dueDate": "2024-10-20T23:59:00",
+      "link": "https://www.gradescope.com/courses/823847",
+      "submitted": false
     }
   ],
   "ME30801": [
