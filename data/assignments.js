@@ -71,6 +71,13 @@ assignments = {
       "dueDate": "2024-10-18T23:59:00",
       "link": "https://www.gradescope.com/courses/827568/assignments/5079520/submissions/279603144",
       "submitted": true
+    },
+    {
+      "title": "Open Lab Project Final Proposal",
+      "course": "ME30801",
+      "dueDate": "2024-10-25T23:59:00",
+      "link": "https://www.gradescope.com/courses/827568",
+      "submitted": false
     }
   ],
   "ME315 (Lecture)": [
