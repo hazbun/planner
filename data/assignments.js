@@ -25,8 +25,8 @@ assignments = {
       "title": "Project 1",
       "course": "ME 50900",
       "dueDate": "2024-10-20T23:59:00",
-      "link": "https://www.gradescope.com/courses/823847",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/823847/assignments/5171364/submissions/279940448",
+      "submitted": true
     }
   ],
   "ME30801": [
