@@ -257,8 +257,8 @@ assignments = {
       "title": "Mid-term",
       "course": "wl.202510.ME.58100.WNG",
       "dueDate": "2024-10-22T11:00:00",
-      "link": "https://www.gradescope.com/courses/821837",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/821837/assignments/4731506/submissions/280437373",
+      "submitted": true
     },
     {
       "title": "Homework-0, due 8/27",
