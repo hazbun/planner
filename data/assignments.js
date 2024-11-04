@@ -150,6 +150,13 @@ assignments = {
       "dueDate": "2024-10-30T23:59:00",
       "link": "https://www.gradescope.com/courses/814076",
       "submitted": false
+    },
+    {
+      "title": "Homework 10",
+      "course": "ME315 (Lecture)",
+      "dueDate": "2024-11-13T23:59:00",
+      "link": "https://www.gradescope.com/courses/814076",
+      "submitted": false
     }
   ],
   "ME315Lab - Div 051 (Fri 09:30)": [
