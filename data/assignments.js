@@ -85,6 +85,13 @@ assignments = {
       "dueDate": "2024-10-25T23:59:00",
       "link": "https://www.gradescope.com/courses/827568/assignments/5079571/submissions/282198263",
       "submitted": true
+    },
+    {
+      "title": "Open Lab Report",
+      "course": "ME30801",
+      "dueDate": "2024-11-22T23:59:00",
+      "link": "https://www.gradescope.com/courses/827568",
+      "submitted": false
     }
   ],
   "ME315 (Lecture)": [
