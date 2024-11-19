@@ -303,6 +303,13 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "Homework-7, due 12/5",
+      "course": "wl.202510.ME.58100.WNG",
+      "dueDate": "2024-12-05T23:59:00",
+      "link": "https://www.gradescope.com/courses/821837",
+      "submitted": false
+    },
+    {
       "title": "Mid-term",
       "course": "wl.202510.ME.58100.WNG",
       "dueDate": "2024-10-22T11:00:00",
