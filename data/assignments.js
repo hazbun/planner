@@ -90,8 +90,8 @@ assignments = {
       "title": "Open Lab Report",
       "course": "ME30801",
       "dueDate": "2024-11-22T23:59:00",
-      "link": "https://www.gradescope.com/courses/827568",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/827568/assignments/5339932/submissions/292137165",
+      "submitted": true
     }
   ],
   "ME315 (Lecture)": [
