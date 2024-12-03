@@ -99,6 +99,13 @@ assignments = {
       "dueDate": "2024-11-22T23:59:00",
       "link": "https://www.gradescope.com/courses/827568/assignments/5339932/submissions/292137165",
       "submitted": true
+    },
+    {
+      "title": "ME30801_Fa24_Exit_Survey",
+      "course": "ME30801",
+      "dueDate": "2024-12-06T23:59:00",
+      "link": "https://www.gradescope.com/courses/827568/assignments/5397052/submissions/294125697",
+      "submitted": true
     }
   ],
   "ME315 (Lecture)": [
