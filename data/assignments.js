@@ -341,8 +341,8 @@ assignments = {
       "title": "Final Exam",
       "course": "wl.202510.ME.58100.WNG",
       "dueDate": "2024-12-09T09:00:00",
-      "link": "https://www.gradescope.com/courses/821837",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/821837/assignments/4731613/submissions/295749026",
+      "submitted": true
     },
     {
       "title": "Homework-0, due 8/27",
