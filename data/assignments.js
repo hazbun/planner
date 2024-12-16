@@ -1,7 +1,7 @@
 assignments = {
   "ME 50900": [
     {
-      "title": "Gradescope LTI 1.3",
+      "title": "Homework 01",
       "course": "ME 50900",
       "dueDate": "2024-09-03T23:59:00",
       "link": "https://www.gradescope.com/courses/823847/assignments/4833423/submissions/263974196",
