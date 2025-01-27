@@ -13,6 +13,13 @@ assignments = {
       "dueDate": "2025-02-23T23:59:00",
       "link": "https://www.gradescope.com/courses/940672",
       "submitted": false
+    },
+    {
+      "title": "Analysis Assignment 2",
+      "course": "Micromechanics of Materials (LEC) ",
+      "dueDate": "2025-02-16T23:59:00",
+      "link": "https://www.gradescope.com/courses/940672",
+      "submitted": false
     }
   ]
 };
