@@ -4,8 +4,8 @@ assignments = {
       "title": "Analysis Assignment 4",
       "course": "Micromechanics of Materials (LEC) ",
       "dueDate": "2025-03-23T23:59:00",
-      "link": "https://www.gradescope.com/courses/940672",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/940672/assignments/5533574/submissions/319386653",
+      "submitted": true
     },
     {
       "title": "Analysis Assignment 3",
