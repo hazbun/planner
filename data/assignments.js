@@ -60,8 +60,8 @@ assignments = {
       "title": "Exam 2",
       "course": "Micromechanics of Materials (LEC) ",
       "dueDate": "2025-04-03T22:15:00",
-      "link": "https://www.gradescope.com/courses/940672/assignments/5533587/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/940672/assignments/5533587/submissions/322109625",
+      "submitted": true
     },
     {
       "title": "Writing Assignment 2",
